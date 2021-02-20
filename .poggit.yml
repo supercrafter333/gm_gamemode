@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/JustinproNowak/gm_gamemode
+build-by-default: true
+branches:
+- bot
+projects:
+  gm_gamemode:
+    path: ""
+...
