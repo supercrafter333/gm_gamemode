@@ -1,5 +1,5 @@
 name: Gamemode
-main: gamemode\Main
+main: gamemode\main
 author: lejustin
 version: 0.3
 api: [3.0.0]
