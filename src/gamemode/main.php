@@ -8,7 +8,7 @@ use pocketmine\command\CommandSender;
 use pocketmine\utils\TextFormat;
 use pocketmine\Player;
 
-class Main extends Pluginbase
+class Main extends PluginBase
 {
 
     public function onEnable()
